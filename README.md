@@ -4,9 +4,8 @@ This repository is managed by BeyondCTCI GitHub sync.
 
 ## What gets synced
 - Only problem submissions (not code runs)
-- Sync mode can be configured to:
+- Sync mode configured to:
   - Accepted only
-  - All submissions
 
 ## File structure
 - `DSA-problems/<problem-name>/<YYYY-MM-DD-HH-MM-SS-submission-id>.<ext>`
